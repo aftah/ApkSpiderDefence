@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tower" size="0.100000 0.120519" />
+    <ImageTarget name="spacevectors" size="0.100000 0.066545" />
+    <ImageTarget name="spaceandearth" size="0.100000 0.056000" />
+    <ImageTarget name="earth" size="0.100000 0.056000" />
+    <ImageTarget name="aaspace" size="0.100000 0.056000" />
+    <ImageTarget name="space2" size="0.100000 0.056000" />
+    <ImageTarget name="aaa" size="0.100000 0.056000" />
+    <ImageTarget name="space" size="0.100000 0.066545" />
+    <ImageTarget name="images" size="0.100000 0.056000" />
+    <ImageTarget name="_103600096_mediaitem103600095" size="0.100000 0.073636" />
+    <ImageTarget name="Marker-00" size="0.100000 0.100000" />
+    <ImageTarget name="SSSSE" size="0.100000 0.042319" />
+    <ImageTarget name="Balls" size="0.100000 0.088875" />
+  </Tracking>
+</QCARConfig>

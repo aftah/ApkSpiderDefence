@@ -1,0 +1,1570 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &21057889497619835
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6673660201209159617}
+  m_Layer: 0
+  m_Name: villager_R_Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6673660201209159617
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 21057889497619835}
+  m_LocalRotation: {x: -0.70942307, y: 0.03955463, z: 0.034060415, w: 0.7028473}
+  m_LocalPosition: {x: -0.24300678, y: -0.000000043125002, z: -0.0000000575}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1.0000004}
+  m_Children:
+  - {fileID: 7929351189946395568}
+  - {fileID: 2764678463547973146}
+  - {fileID: 3947836036292334218}
+  - {fileID: 8597923595655596672}
+  - {fileID: 3473274279907397124}
+  m_Father: {fileID: 8392309787799839124}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &304472928587590328
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4926359631611232682}
+  m_Layer: 0
+  m_Name: villager_L_Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4926359631611232682
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304472928587590328}
+  m_LocalRotation: {x: 0, y: -0.24743778, z: -0, w: 0.9689038}
+  m_LocalPosition: {x: -0.38756087, y: 0.000000014375, z: 0.000000014375}
+  m_LocalScale: {x: 1.0000002, y: 1, z: 1.0000002}
+  m_Children:
+  - {fileID: 7796614183672382834}
+  m_Father: {fileID: 2462735305294715589}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &693460459270477201
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1044629781134617088}
+  m_Layer: 0
+  m_Name: villager_L_Finger3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1044629781134617088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 693460459270477201}
+  m_LocalRotation: {x: -0.0027859227, y: 0.09645165, z: 0.032851018, w: 0.9947915}
+  m_LocalPosition: {x: -0.080528736, y: 0.008052889, z: 0.00000635375}
+  m_LocalScale: {x: 0.9999994, y: 1, z: 1.0000005}
+  m_Children:
+  - {fileID: 1172814056598964497}
+  m_Father: {fileID: 6606876228242996590}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &788428614778163292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7796614183672382834}
+  m_Layer: 0
+  m_Name: villager_L_Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7796614183672382834
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 788428614778163292}
+  m_LocalRotation: {x: 0.24898495, y: 0.119981885, z: -0.075007334, w: 0.9581152}
+  m_LocalPosition: {x: -0.38756093, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999976, y: 0.99999946, z: 0.99999994}
+  m_Children:
+  - {fileID: 6195866270790247761}
+  m_Father: {fileID: 4926359631611232682}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &936574111707456615
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3010613733526743524}
+  m_Layer: 0
+  m_Name: villager_L_Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3010613733526743524
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 936574111707456615}
+  m_LocalRotation: {x: -0.66456985, y: 0.7286362, z: -0.11162128, w: 0.12238031}
+  m_LocalPosition: {x: -0.00000017002695, y: 0.027129304, z: 0.00006429925}
+  m_LocalScale: {x: 0.9999998, y: 1.0000002, z: 0.99999946}
+  m_Children:
+  - {fileID: 7811885245349869541}
+  m_Father: {fileID: 6068261385940752889}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1097164535379065700
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7399441462232364824}
+  m_Layer: 0
+  m_Name: villager_L_Finger41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7399441462232364824
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1097164535379065700}
+  m_LocalRotation: {x: 0, y: 0.25413036, z: -0, w: 0.96717}
+  m_LocalPosition: {x: -0.02631338, y: -0.000000014375, z: 0.000000043125002}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 0.9999998}
+  m_Children: []
+  m_Father: {fileID: 1929928683296509945}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1167973711102078163
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7811885245349869541}
+  m_Layer: 0
+  m_Name: villager_L_UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7811885245349869541
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1167973711102078163}
+  m_LocalRotation: {x: -0.060353078, y: 0.21669625, z: 0.61864746, w: 0.7527786}
+  m_LocalPosition: {x: -0.09314695, y: -0.000000158125, z: -0.000000014375}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1.0000007}
+  m_Children:
+  - {fileID: 6181882520976370646}
+  m_Father: {fileID: 3010613733526743524}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1309385112757651973
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1929928683296509945}
+  m_Layer: 0
+  m_Name: villager_L_Finger4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1929928683296509945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1309385112757651973}
+  m_LocalRotation: {x: 0.0003940003, y: 0.13835664, z: 0.000054999047, w: 0.9903824}
+  m_LocalPosition: {x: -0.080528766, y: 0.02415864, z: 0.00001906125}
+  m_LocalScale: {x: 1, y: 1.0000005, z: 1.0000001}
+  m_Children:
+  - {fileID: 7399441462232364824}
+  m_Father: {fileID: 6606876228242996590}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1415582213882231284
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2997091198181294230}
+  m_Layer: 0
+  m_Name: villager_L_Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2997091198181294230
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1415582213882231284}
+  m_LocalRotation: {x: -0.6818349, y: -0.027594915, z: 0.19814287, w: 0.70361865}
+  m_LocalPosition: {x: -0.043631848, y: -0.036391836, z: 0.017958026}
+  m_LocalScale: {x: 0.9999996, y: 0.9999999, z: 1.0000005}
+  m_Children:
+  - {fileID: 3001926752505460559}
+  m_Father: {fileID: 6606876228242996590}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1773427506131916332
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3370701549510632511}
+  - component: {fileID: 6563947924528257444}
+  m_Layer: 0
+  m_Name: female_villager_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3370701549510632511
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773427506131916332}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
+  m_Children:
+  - {fileID: 8861972548251574927}
+  - {fileID: 7790614679897275088}
+  - {fileID: 7132701580801942422}
+  - {fileID: 2952519257819628397}
+  - {fileID: 3743715006182111368}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!111 &6563947924528257444
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773427506131916332}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: -5252816984213320552, guid: 08751c68d89f7284aaa127e9a5ba0217,
+    type: 3}
+  m_Animations:
+  - {fileID: -5252816984213320552, guid: 08751c68d89f7284aaa127e9a5ba0217, type: 3}
+  - {fileID: -6627363476498757099, guid: 08751c68d89f7284aaa127e9a5ba0217, type: 3}
+  - {fileID: 8154020603023770980, guid: 5214a911898dddf4c9317cf808c7e099, type: 3}
+  - {fileID: -3392386962517286295, guid: 08751c68d89f7284aaa127e9a5ba0217, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 1
+  m_CullingType: 1
+--- !u!1 &1965737167832685900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5523148540454501046}
+  m_Layer: 0
+  m_Name: villager_Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5523148540454501046
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1965737167832685900}
+  m_LocalRotation: {x: -0.52846956, y: 0.46980748, z: 0.5284706, w: -0.46980816}
+  m_LocalPosition: {x: 0.000000014375, y: 0.000000014375, z: 0}
+  m_LocalScale: {x: 1.0000004, y: 1.0000004, z: 1}
+  m_Children:
+  - {fileID: 2606597165221138658}
+  m_Father: {fileID: 3743715006182111368}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2091629516538284574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9040734867544238206}
+  m_Layer: 0
+  m_Name: villager_L_Finger2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9040734867544238206
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2091629516538284574}
+  m_LocalRotation: {x: 0.00039813732, y: -0.000025416219, z: 0.056530993, w: 0.99840075}
+  m_LocalPosition: {x: -0.080528796, y: -0.008052861, z: -0.000006425625}
+  m_LocalScale: {x: 0.9999995, y: 1, z: 1.0000006}
+  m_Children:
+  - {fileID: 5971413688917262547}
+  m_Father: {fileID: 6606876228242996590}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2200215151471924749
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2606597165221138658}
+  m_Layer: 0
+  m_Name: villager_Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2606597165221138658
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2200215151471924749}
+  m_LocalRotation: {x: 0.0012778334, y: -0.02826058, z: 0.032145504, w: 0.9990828}
+  m_LocalPosition: {x: -0.088516325, y: -0.010439575, z: -0.00016018018}
+  m_LocalScale: {x: 0.9999999, y: 1.0000004, z: 0.9999999}
+  m_Children:
+  - {fileID: 2462735305294715589}
+  - {fileID: 4593530952928582454}
+  - {fileID: 6327560438052924498}
+  m_Father: {fileID: 5523148540454501046}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2351141737774108987
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 369625142206087379}
+  m_Layer: 0
+  m_Name: villager_R_Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &369625142206087379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2351141737774108987}
+  m_LocalRotation: {x: 0, y: 0.20846109, z: -0, w: 0.9780307}
+  m_LocalPosition: {x: -0.029385937, y: -0.00000002875, z: 0.000000043125002}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 0.9999998}
+  m_Children: []
+  m_Father: {fileID: 7929351189946395568}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2493789654801397081
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5171299493587439975}
+  m_Layer: 0
+  m_Name: villager_Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5171299493587439975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2493789654801397081}
+  m_LocalRotation: {x: 0.027218696, y: 0.016276415, z: -0.09138676, w: 0.99531037}
+  m_LocalPosition: {x: -0.08080774, y: 0, z: 0.000000100625}
+  m_LocalScale: {x: 0.9999996, y: 1.0000001, z: 1.0000002}
+  m_Children: []
+  m_Father: {fileID: 6068261385940752889}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2529540676391048019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3743715006182111368}
+  m_Layer: 0
+  m_Name: villager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3743715006182111368
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2529540676391048019}
+  m_LocalRotation: {x: 0.011573205, y: 0.6579286, z: 0.01316243, w: 0.75287634}
+  m_LocalPosition: {x: -0.010673506, y: 0.865346, z: -0.12970902}
+  m_LocalScale: {x: 1.0000004, y: 0.9999999, z: 0.9999994}
+  m_Children:
+  - {fileID: 5523148540454501046}
+  m_Father: {fileID: 3370701549510632511}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2748737437259495374
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3478759732837896326}
+  m_Layer: 0
+  m_Name: villager_R_Finger11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3478759732837896326
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2748737437259495374}
+  m_LocalRotation: {x: 0, y: 0.1961817, z: -0, w: 0.9805676}
+  m_LocalPosition: {x: -0.029067112, y: -0.000000014375, z: 0.000000115}
+  m_LocalScale: {x: 0.9999996, y: 1, z: 1.0000006}
+  m_Children: []
+  m_Father: {fileID: 2764678463547973146}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2884804677087965743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6657903602469769826}
+  m_Layer: 0
+  m_Name: villager_R_Finger21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6657903602469769826
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2884804677087965743}
+  m_LocalRotation: {x: 0, y: 0.2583652, z: -0, w: 0.9660473}
+  m_LocalPosition: {x: -0.03881059, y: 0, z: 0.000000043125002}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 3947836036292334218}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3114570537238011630
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3947836036292334218}
+  m_Layer: 0
+  m_Name: villager_R_Finger2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3947836036292334218
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3114570537238011630}
+  m_LocalRotation: {x: -0.0003980854, y: -0.000016410937, z: -0.035355993, w: 0.9993747}
+  m_LocalPosition: {x: -0.080528796, y: 0.008052861, z: -0.000006454375}
+  m_LocalScale: {x: 0.9999999, y: 1.0000001, z: 1.0000005}
+  m_Children:
+  - {fileID: 6657903602469769826}
+  m_Father: {fileID: 6673660201209159617}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3598327294020326678
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6068261385940752889}
+  m_Layer: 0
+  m_Name: villager_Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6068261385940752889
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3598327294020326678}
+  m_LocalRotation: {x: -0.00000047591382, y: 0.16524614, z: -0.00000081318956, w: 0.98625237}
+  m_LocalPosition: {x: -0.2015527, y: -6.719252e-11, z: -0.00006086368}
+  m_LocalScale: {x: 0.99999964, y: 1.0000006, z: 1}
+  m_Children:
+  - {fileID: 5171299493587439975}
+  - {fileID: 3010613733526743524}
+  - {fileID: 4246032594540621976}
+  m_Father: {fileID: 6327560438052924498}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3662818898401275906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6606876228242996590}
+  m_Layer: 0
+  m_Name: villager_L_Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6606876228242996590
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3662818898401275906}
+  m_LocalRotation: {x: 0.7106258, y: -0.015248603, z: 0.002130506, w: 0.7034017}
+  m_LocalPosition: {x: -0.2430069, y: -0.00000002875, z: 0.000000071875}
+  m_LocalScale: {x: 0.99999964, y: 1.0000001, z: 0.9999999}
+  m_Children:
+  - {fileID: 2997091198181294230}
+  - {fileID: 829341493138820481}
+  - {fileID: 9040734867544238206}
+  - {fileID: 1044629781134617088}
+  - {fileID: 1929928683296509945}
+  m_Father: {fileID: 6181882520976370646}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4272606265009873794
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3111042359200445473}
+  m_Layer: 0
+  m_Name: villager_R_UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3111042359200445473
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4272606265009873794}
+  m_LocalRotation: {x: 0.104578264, y: 0.1567144, z: -0.5174059, w: 0.8347426}
+  m_LocalPosition: {x: -0.09314695, y: 0.000000071875, z: 0}
+  m_LocalScale: {x: 0.99999934, y: 1.0000006, z: 1.0000007}
+  m_Children:
+  - {fileID: 8392309787799839124}
+  m_Father: {fileID: 4246032594540621976}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4376486557018825158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5971413688917262547}
+  m_Layer: 0
+  m_Name: villager_L_Finger21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5971413688917262547
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4376486557018825158}
+  m_LocalRotation: {x: 0, y: 0.2583652, z: -0, w: 0.9660473}
+  m_LocalPosition: {x: -0.035030566, y: 0.000000014375, z: 0.000000043125002}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 9040734867544238206}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4520995121533125097
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7929351189946395568}
+  m_Layer: 0
+  m_Name: villager_R_Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7929351189946395568
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4520995121533125097}
+  m_LocalRotation: {x: 0.5363036, y: 0.0016640285, z: -0.17315601, w: 0.82607067}
+  m_LocalPosition: {x: -0.048715454, y: 0.036717474, z: 0.013335946}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+  m_Children:
+  - {fileID: 369625142206087379}
+  m_Father: {fileID: 6673660201209159617}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4720860064271415250
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8597923595655596672}
+  m_Layer: 0
+  m_Name: villager_R_Finger3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8597923595655596672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4720860064271415250}
+  m_LocalRotation: {x: -0.00039804337, y: -0.000009416584, z: -0.017987004, w: 0.9998382}
+  m_LocalPosition: {x: -0.080528826, y: -0.008052874, z: 0.00000646875}
+  m_LocalScale: {x: 1, y: 1.0000004, z: 1.0000004}
+  m_Children:
+  - {fileID: 5495551781193225000}
+  m_Father: {fileID: 6673660201209159617}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5148349861650988228
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3473274279907397124}
+  m_Layer: 0
+  m_Name: villager_R_Finger4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3473274279907397124
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5148349861650988228}
+  m_LocalRotation: {x: -0.0003950003, y: 0.13076968, z: -0.000051999075, w: 0.9914127}
+  m_LocalPosition: {x: -0.080528766, y: -0.024158627, z: 0.00001917625}
+  m_LocalScale: {x: 0.9999997, y: 1.0000002, z: 0.99999994}
+  m_Children:
+  - {fileID: 8337380928084549692}
+  m_Father: {fileID: 6673660201209159617}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5307582986737133379
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4593530952928582454}
+  m_Layer: 0
+  m_Name: villager_R_Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4593530952928582454
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5307582986737133379}
+  m_LocalRotation: {x: 0.03616802, y: -0.0058802073, z: 0.997506, w: -0.06032478}
+  m_LocalPosition: {x: 0.0838975, y: -0.07262561, z: -0.0045382697}
+  m_LocalScale: {x: 1.0000004, y: 0.99999994, z: 0.9999994}
+  m_Children:
+  - {fileID: 2185956391358984710}
+  m_Father: {fileID: 2606597165221138658}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5333656048843439109
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2764678463547973146}
+  m_Layer: 0
+  m_Name: villager_R_Finger1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2764678463547973146
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5333656048843439109}
+  m_LocalRotation: {x: -0.0003980513, y: -0.0000214068, z: -0.04670464, w: 0.9989087}
+  m_LocalPosition: {x: -0.080528826, y: 0.02415861, z: -0.00001917625}
+  m_LocalScale: {x: 0.99999964, y: 0.99999994, z: 1.0000002}
+  m_Children:
+  - {fileID: 3478759732837896326}
+  m_Father: {fileID: 6673660201209159617}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5465377979692438033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8392309787799839124}
+  m_Layer: 0
+  m_Name: villager_R_Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8392309787799839124
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5465377979692438033}
+  m_LocalRotation: {x: 0, y: -0.14234169, z: -0, w: 0.9898176}
+  m_LocalPosition: {x: -0.27200836, y: -0.000000014375, z: 0.00000002875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6673660201209159617}
+  m_Father: {fileID: 3111042359200445473}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5731949444361012427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5495551781193225000}
+  m_Layer: 0
+  m_Name: villager_R_Finger31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5495551781193225000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5731949444361012427}
+  m_LocalRotation: {x: 0, y: 0.24178778, z: -0, w: 0.97032917}
+  m_LocalPosition: {x: -0.03125243, y: 0, z: -0.00000012937501}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 8597923595655596672}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5901409811776484670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6327560438052924498}
+  m_Layer: 0
+  m_Name: villager_Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6327560438052924498
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5901409811776484670}
+  m_LocalRotation: {x: -0.010038854, y: -0.1022555, z: 0.08534073, w: 0.9910399}
+  m_LocalPosition: {x: -0.20149902, y: -0.00000037374465, z: -0.00015707569}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6068261385940752889}
+  m_Father: {fileID: 2606597165221138658}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6078141998413757664
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2702164587608968089}
+  m_Layer: 0
+  m_Name: villager_R_Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2702164587608968089
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6078141998413757664}
+  m_LocalRotation: {x: 0, y: 0.7071066, z: 0, w: 0.70710707}
+  m_LocalPosition: {x: -0.089139, y: 0.000000014375, z: 0.11471808}
+  m_LocalScale: {x: 1.0000002, y: 1, z: 1.0000002}
+  m_Children: []
+  m_Father: {fileID: 4479643544327575164}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6572586521504914877
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 829341493138820481}
+  m_Layer: 0
+  m_Name: villager_L_Finger1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &829341493138820481
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572586521504914877}
+  m_LocalRotation: {x: 0.0003961872, y: -0.000043407184, z: 0.10232969, w: 0.9947505}
+  m_LocalPosition: {x: -0.080528766, y: -0.024158627, z: -0.00001932}
+  m_LocalScale: {x: 0.99999964, y: 0.99999976, z: 1.0000004}
+  m_Children:
+  - {fileID: 2901077873522161044}
+  m_Father: {fileID: 6606876228242996590}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6950356396683945394
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7132701580801942422}
+  m_Layer: 0
+  m_Name: object1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7132701580801942422
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6950356396683945394}
+  m_LocalRotation: {x: -0.7071067, y: -0.00000006181724, z: -1.5526942e-14, w: 0.7071068}
+  m_LocalPosition: {x: 0.0021208099, y: 0.7939143, z: -0.27170265}
+  m_LocalScale: {x: 4197.7905, y: 4197.7905, z: 4197.7905}
+  m_Children: []
+  m_Father: {fileID: 3370701549510632511}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6977706576478340021
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4246032594540621976}
+  m_Layer: 0
+  m_Name: villager_R_Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4246032594540621976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6977706576478340021}
+  m_LocalRotation: {x: 0.63773066, y: 0.7519607, z: 0.12333692, w: 0.112439945}
+  m_LocalPosition: {x: -0.00000016122556, y: -0.027129246, z: 0.0000644179}
+  m_LocalScale: {x: 0.9999998, y: 1.0000004, z: 1.0000006}
+  m_Children:
+  - {fileID: 3111042359200445473}
+  m_Father: {fileID: 6068261385940752889}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7606992427720545365
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8861972548251574927}
+  m_Layer: 0
+  m_Name: body
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8861972548251574927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7606992427720545365}
+  m_LocalRotation: {x: -0.7071067, y: -0.00000006181724, z: -1.5526942e-14, w: 0.7071068}
+  m_LocalPosition: {x: 0.0023015488, y: 0.8127473, z: -0.10007796}
+  m_LocalScale: {x: 4197.7905, y: 4197.7905, z: 4197.7905}
+  m_Children: []
+  m_Father: {fileID: 3370701549510632511}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7888366819270978815
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2185956391358984710}
+  m_Layer: 0
+  m_Name: villager_R_Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2185956391358984710
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7888366819270978815}
+  m_LocalRotation: {x: 0, y: -0.0007734649, z: -0, w: 0.9999997}
+  m_LocalPosition: {x: -0.38756084, y: 0, z: 0.000000014375}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 4479643544327575164}
+  m_Father: {fileID: 4593530952928582454}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8013326347593399365
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2952519257819628397}
+  - component: {fileID: 3739215582829640113}
+  m_Layer: 0
+  m_Name: U3DMesh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2952519257819628397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8013326347593399365}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3370701549510632511}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &3739215582829640113
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8013326347593399365}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: f97bae80e43cf2d4b88dc38f2b2c9294, type: 2}
+  - {fileID: 2100000, guid: bdde0300e476c1048a3576fd6aeae33d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 08751c68d89f7284aaa127e9a5ba0217, type: 3}
+  m_Bones:
+  - {fileID: 3743715006182111368}
+  - {fileID: 5523148540454501046}
+  - {fileID: 2606597165221138658}
+  - {fileID: 6327560438052924498}
+  - {fileID: 6068261385940752889}
+  - {fileID: 5171299493587439975}
+  - {fileID: 3010613733526743524}
+  - {fileID: 7811885245349869541}
+  - {fileID: 6181882520976370646}
+  - {fileID: 6606876228242996590}
+  - {fileID: 2997091198181294230}
+  - {fileID: 3001926752505460559}
+  - {fileID: 829341493138820481}
+  - {fileID: 2901077873522161044}
+  - {fileID: 9040734867544238206}
+  - {fileID: 5971413688917262547}
+  - {fileID: 1044629781134617088}
+  - {fileID: 1172814056598964497}
+  - {fileID: 1929928683296509945}
+  - {fileID: 7399441462232364824}
+  - {fileID: 4246032594540621976}
+  - {fileID: 3111042359200445473}
+  - {fileID: 8392309787799839124}
+  - {fileID: 6673660201209159617}
+  - {fileID: 7929351189946395568}
+  - {fileID: 369625142206087379}
+  - {fileID: 2764678463547973146}
+  - {fileID: 3478759732837896326}
+  - {fileID: 3947836036292334218}
+  - {fileID: 6657903602469769826}
+  - {fileID: 8597923595655596672}
+  - {fileID: 5495551781193225000}
+  - {fileID: 3473274279907397124}
+  - {fileID: 8337380928084549692}
+  - {fileID: 2462735305294715589}
+  - {fileID: 4926359631611232682}
+  - {fileID: 7796614183672382834}
+  - {fileID: 4593530952928582454}
+  - {fileID: 2185956391358984710}
+  - {fileID: 4479643544327575164}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 3743715006182111368}
+  m_AABB:
+    m_Center: {x: -0.013577074, y: -0.062708676, z: -0.03416413}
+    m_Extent: {x: 0.7088338, y: 0.8466601, z: 0.6938118}
+  m_DirtyAABB: 0
+--- !u!1 &8082269989582006137
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1172814056598964497}
+  m_Layer: 0
+  m_Name: villager_L_Finger31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1172814056598964497
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8082269989582006137}
+  m_LocalRotation: {x: 0, y: 0.24178778, z: -0, w: 0.97032917}
+  m_LocalPosition: {x: -0.03540216, y: 0, z: -0.00000002875}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 1044629781134617088}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8149183903131736425
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2901077873522161044}
+  m_Layer: 0
+  m_Name: villager_L_Finger11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2901077873522161044
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8149183903131736425}
+  m_LocalRotation: {x: 0, y: 0.1961817, z: -0, w: 0.9805676}
+  m_LocalPosition: {x: -0.030153563, y: 0, z: -0.00000002875}
+  m_LocalScale: {x: 0.9999995, y: 1, z: 0.9999995}
+  m_Children: []
+  m_Father: {fileID: 829341493138820481}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8210325427228447717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2462735305294715589}
+  m_Layer: 0
+  m_Name: villager_L_Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2462735305294715589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8210325427228447717}
+  m_LocalRotation: {x: -0.06214733, y: -0.004612724, z: 0.99682593, w: -0.049543563}
+  m_LocalPosition: {x: 0.09384416, y: 0.082077794, z: -0.0052154795}
+  m_LocalScale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+  m_Children:
+  - {fileID: 4926359631611232682}
+  m_Father: {fileID: 2606597165221138658}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8354665280544152114
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4479643544327575164}
+  m_Layer: 0
+  m_Name: villager_R_Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4479643544327575164
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8354665280544152114}
+  m_LocalRotation: {x: -0.057103302, y: 0.010651445, z: -0.0333881, w: 0.99775296}
+  m_LocalPosition: {x: -0.38756076, y: 0.00000002875, z: 0}
+  m_LocalScale: {x: 0.9999997, y: 1.0000006, z: 1.0000001}
+  m_Children:
+  - {fileID: 2702164587608968089}
+  m_Father: {fileID: 2185956391358984710}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8510287833579877393
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6195866270790247761}
+  m_Layer: 0
+  m_Name: villager_L_Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6195866270790247761
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8510287833579877393}
+  m_LocalRotation: {x: -0.0032919159, y: 0.72790104, z: 0.003100915, w: 0.6856674}
+  m_LocalPosition: {x: -0.089139014, y: 0.000000014375, z: 0.11471808}
+  m_LocalScale: {x: 1.0000004, y: 1, z: 1.0000004}
+  m_Children: []
+  m_Father: {fileID: 7796614183672382834}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8850844974842528429
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7790614679897275088}
+  m_Layer: 0
+  m_Name: hair
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7790614679897275088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8850844974842528429}
+  m_LocalRotation: {x: -0.7071067, y: -0.00000006181724, z: -1.5526942e-14, w: 0.7071068}
+  m_LocalPosition: {x: -0.14344005, y: 0.3229137, z: -0.26601592}
+  m_LocalScale: {x: 2807.2878, y: 2807.2878, z: 2807.2878}
+  m_Children: []
+  m_Father: {fileID: 3370701549510632511}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8939691550567633542
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6181882520976370646}
+  m_Layer: 0
+  m_Name: villager_L_Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6181882520976370646
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8939691550567633542}
+  m_LocalRotation: {x: 0, y: -0.13604748, z: -0, w: 0.99070233}
+  m_LocalPosition: {x: -0.27200854, y: -0.00000002875, z: 0.00000002875}
+  m_LocalScale: {x: 1.0000007, y: 1, z: 1.0000007}
+  m_Children:
+  - {fileID: 6606876228242996590}
+  m_Father: {fileID: 7811885245349869541}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9118706159743833681
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3001926752505460559}
+  m_Layer: 0
+  m_Name: villager_L_Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3001926752505460559
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9118706159743833681}
+  m_LocalRotation: {x: 0, y: 0.20846109, z: -0, w: 0.9780307}
+  m_LocalPosition: {x: -0.029808015, y: -0.00000002875, z: -0.000000014375}
+  m_LocalScale: {x: 1.0000002, y: 1, z: 0.9999993}
+  m_Children: []
+  m_Father: {fileID: 2997091198181294230}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9203415370920765836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8337380928084549692}
+  m_Layer: 0
+  m_Name: villager_R_Finger41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8337380928084549692
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9203415370920765836}
+  m_LocalRotation: {x: 0, y: 0.25413036, z: -0, w: 0.96717}
+  m_LocalPosition: {x: -0.02422255, y: -0.00000002875, z: 0.000000043125002}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 0.9999998}
+  m_Children: []
+  m_Father: {fileID: 3473274279907397124}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
